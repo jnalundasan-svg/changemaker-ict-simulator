@@ -1,0 +1,8 @@
+{
+  "name": "Remix ChangeMaker: ICT for Social Impact Simulator",
+  "description": "AI-powered assessment platform for Senior High School Empowerment Technologies evaluating ICT advocacy, research, digital citizenship, and social change.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
